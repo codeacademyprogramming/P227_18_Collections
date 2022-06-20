@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "366dcde7-76c8-42c3-ba9a-0308bcfae6ed": {
+      "ProjectGuid": "366dcde7-76c8-42c3-ba9a-0308bcfae6ed",
+      "DisplayName": "EnumTask",
+      "ColorIndex": 0
+    },
+    "5f750223-9159-4acc-ba56-00922392b845": {
+      "ProjectGuid": "5f750223-9159-4acc-ba56-00922392b845",
+      "DisplayName": "LessonGeneric",
+      "ColorIndex": 1
+    },
+    "1e4dbfab-3aed-4740-b9dc-0d5da0a2305f": {
+      "ProjectGuid": "1e4dbfab-3aed-4740-b9dc-0d5da0a2305f",
+      "DisplayName": "GenericTask",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

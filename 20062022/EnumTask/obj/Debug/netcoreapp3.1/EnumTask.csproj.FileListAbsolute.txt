@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\bin\Debug\netcoreapp3.1\EnumTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\26. 20-06-2022\20062022\EnumTask\obj\Debug\netcoreapp3.1\EnumTask.genruntimeconfig.cache
